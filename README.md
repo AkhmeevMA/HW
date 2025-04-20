@@ -1,3 +1,7 @@
-# HW
-HomeWork on Programming Technology
-Created by: Akhmeev M.A. IU3-43B
+# Домашнее задание
+## По курсу "Технология программирования"
+
+### Автор
+- **ФИО:** Ахмеев Максим Алексеевич
+- **Группа:** ИУ3-43Б
+- **Почта:** akhmeevma@student.bmstu.ru
